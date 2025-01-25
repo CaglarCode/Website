@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+itsdangerous
+Jinja2
+Werkzeug
+gunicorn
